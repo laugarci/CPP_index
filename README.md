@@ -5,6 +5,8 @@ These projects serve as an introduction to C++ programming, focusing on Object-O
 
 - [CPP00](https://github.com/laugarci/CPP00)
 - [CPP01](https://github.com/laugarci/CPP01)
+
+### <i>In progress</i>
 - [CPP02]()
 - [CPP03]()
 - [CPP04]()
