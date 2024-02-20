@@ -13,10 +13,10 @@ These projects serve as an introduction to C++ programming, focusing on Object-O
 - [CPP02](https://github.com/laugarci/CPP02)
 - [CPP03](https://github.com/laugarci/CPP03)
 - [CPP04](https://github.com/laugarci/CPP04)
-
-### <i>In progress</i>
 - [CPP05](https://github.com/laugarci/CPP05)
 - [CPP06](https://github.com/laugarci/CPP06)
+
+### <i>In progress</i>
 - [CPP07](https://github.com/laugarci/CPP07)
 - [CPP08](https://github.com/laugarci/CPP08)
 - [CPP09](https://github.com/laugarci/CPP09)
